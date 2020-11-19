@@ -1,0 +1,16 @@
+{
+  "name": "magic-travel-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Denis",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "description": ""
+}
