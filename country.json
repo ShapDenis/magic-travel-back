@@ -3,7 +3,7 @@
     {
       "Id": 147573,
       "name": "Австрия",
-      "imageUrlCountry": "./image/Avstriya.jpg",
+      "imageUrlCountry": "https://export.otpusk.com/os/countries/tr.jpg",
       "priceMin": 4400,
       "currencyId": 5562,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
