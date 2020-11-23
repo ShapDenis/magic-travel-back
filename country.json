@@ -7,6 +7,13 @@
       "priceMin": 4400,
       "currencyId": 5562,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
+      "CountryGallery": [
+        "https://export.otpusk.com/os/countries/tr.jpg",
+        "https://export.otpusk.com/os/countries/tr.jpg",
+        "https://export.otpusk.com/os/countries/tr.jpg",
+        "https://export.otpusk.com/os/countries/tr.jpg",
+        "https://export.otpusk.com/os/countries/tr.jpg"
+      ],
       "ContinentId": 1
     },
     {
