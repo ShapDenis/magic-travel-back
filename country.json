@@ -3,9 +3,9 @@
     {
       "countryId": 147573,
       "name": "Австрия",
-      "imageUrlCountry": "image/Avstriya.jpg",
+      "imageUrlCountry": "./image/Avstriya.jpg",
       "priceMin": 4400,
-      "currencyId": 5561,
+      "currencyId": 5562,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
       "ContinentId": 1
     },
