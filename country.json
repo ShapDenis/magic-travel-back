@@ -14,7 +14,8 @@
         "https://export.otpusk.com/os/countries/tr.jpg",
         "https://export.otpusk.com/os/countries/tr.jpg"
       ],
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 1
     },
     {
       "id": 257195,
@@ -23,7 +24,8 @@
       "priceMin": 4300,
       "currencyId": 5561,
       "CountryDescription": " We invite you to experience here with your family, definitely you are filled with lasting memories and feel awesome. ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 0
     },
     {
       "id": 4106029,
@@ -32,7 +34,8 @@
       "priceMin": 4200,
       "currencyId": 5561,
       "CountryDescription": " We invite you to experience here with your family, definitely you are filled with lasting memories and feel awesome. ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 2
     },
     {
       "id": 158976,
@@ -41,7 +44,8 @@
       "priceMin": 4000,
       "currencyId": 5561,
       "CountryDescription": " We invite you to experience here with your family, definitely you are filled with lasting memories and feel awesome. ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 2
     },
     {
       "id": 128573,
@@ -50,7 +54,8 @@
       "priceMin": 4100,
       "currencyId": 5561,
       "CountryDescription": " We invite you to experience here with your family, definitely you are filled with lasting memories and feel awesome. ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 3
     },
     {
       "id": 152903,
@@ -59,7 +64,8 @@
       "priceMin": 3900,
       "currencyId": 5561,
       "CountryDescription": " We invite you to experience here with your family, definitely you are filled with lasting memories and feel awesome. ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 4
     },
     {
       "id": 7067498,
@@ -68,7 +74,8 @@
       "priceMin": 3800,
       "currencyId": 5561,
       "CountryDescription": " We invite you to experience here with your family, definitely you are filled with lasting memories and feel awesome. ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 2
     },
     {
       "id": 1001354,
@@ -77,7 +84,8 @@
       "priceMin": 3700,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 2
     },
     {
       "id": 111241,
@@ -86,7 +94,8 @@
       "priceMin": 3600,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 4
+      "ContinentId": 4,
+      "popular": 6
     },
     {
       "id": 5732,
@@ -95,7 +104,8 @@
       "priceMin": 3500,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 2
+      "ContinentId": 2,
+      "popular": 5
     },
     {
       "id": 143785,
@@ -104,7 +114,8 @@
       "priceMin": 3400,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 2
     },
     {
       "id": 158062,
@@ -113,7 +124,8 @@
       "priceMin": 3300,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 3
     },
     {
       "id": 5733,
@@ -122,7 +134,8 @@
       "priceMin": 32000,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 4
     },
     {
       "id": 154020,
@@ -131,7 +144,8 @@
       "priceMin": 3100,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 5
     },
     {
       "id": 7067673,
@@ -140,7 +154,8 @@
       "priceMin": 3000,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 8
     },
     {
       "id": 140009,
@@ -149,7 +164,8 @@
       "priceMin": 2900,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 7
     },
     {
       "id": 111137,
@@ -158,7 +174,8 @@
       "priceMin": 2600,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 4
+      "ContinentId": 4,
+      "popular": 5
     },
     {
       "id": 166775,
@@ -167,7 +184,8 @@
       "priceMin": 2500,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 8
     },
     {
       "id": 7067149,
@@ -176,7 +194,8 @@
       "priceMin": 2300,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 8
     },
     {
       "id": 12695,
@@ -185,7 +204,8 @@
       "priceMin": 1800,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 8
     },
     {
       "id": 1104,
@@ -194,7 +214,8 @@
       "priceMin": 1700,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 9
     },
     {
       "id": 136683,
@@ -203,7 +224,8 @@
       "priceMin": 1400,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 0
+      "ContinentId": 0,
+      "popular": 8
     },
     {
       "id": 138865,
@@ -212,7 +234,8 @@
       "priceMin": 1200,
       "currencyId": 5561,
       "CountryDescription": " ОПИСАНИЕ СТРАНЫ ",
-      "ContinentId": 1
+      "ContinentId": 1,
+      "popular": 6
     }
   ]
 }
